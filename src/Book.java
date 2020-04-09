@@ -11,6 +11,9 @@ public class Book {
         this.price = price;
         this.count = count;
     }
+    public Book(String title,String authorName){
+
+    }
 
     public Book() {
     }
